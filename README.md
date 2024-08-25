@@ -1,8 +1,3 @@
-Certainly! Here’s the README with the country flags added next to each language:
-
----
-
-```markdown
 # Hi there, I'm 3bento 👋
 
 Welcome to my GitHub profile! I'm a software developer and data enthusiast with a passion for building reactive systems using Quarkus, exploring data through Python, and working with various cutting-edge technologies. I also have a deep love for languages, including:
